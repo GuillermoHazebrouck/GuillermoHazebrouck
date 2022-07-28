@@ -1,4 +1,4 @@
-Hi, I am Guillermo Hazebrouck. I am an aeronautical enginner and professional programmer.
+Hi, I am Guillermo Hazebrouck. I am an aeronautical enginner and software developer.
 I mostly program in Ada and .NET.
 
 I am involved in two different open source projects.
