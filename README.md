@@ -3,7 +3,7 @@ I mostly program in Ada and .NET.
 
 I am involved in two different open source projects.
 One is basically a calculation engine for aerodynamic problems called OpenVOGEL.
-The other one is a flight computer for gliders based on Raspberry Pi called G-NAV.
+The other one is a flight computer for gliders based written in Ada called G-NAV.
 
 In my professional life I develop real time software for air traffic management.
 
