@@ -6,11 +6,8 @@ The other one is a flight computer for gliders based written in Ada called G-NAV
 I hope you enjoy these projects and, while doing so, also realise that you are much richer when sharing than when just siking for money... 
 
 Planting a seed is for free.
-
 Take care of it and watch it grow.
-
 That part of you will always remain,
-
 even when you are gone.
 
 
