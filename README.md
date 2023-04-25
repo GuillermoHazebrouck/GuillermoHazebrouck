@@ -1,7 +1,7 @@
 Hello, I am Guillermo Hazebrouck. I was born and raised in Argentina, where I studied aeronautical engineering. I started programming in the frame of numerical computations for flight mechanics, and soon after I became software developer.
 I used to program a lot in .NET, but now I mostly program in Ada. I am involved in two different open source projects that I have created.
 One is basically a calculation engine for aerodynamic problems called OpenVOGEL.
-The other one is a flight computer for gliders based written in Ada called G-NAV.
+The other one is a flight computer for gliders written in Ada called G-NAV.
 
 I hope you enjoy these projects and, while doing so, also realise that you are much richer when sharing than when just siking for money... 
 
